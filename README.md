@@ -1,7 +1,5 @@
 ## Welcome! 👋
 
-### 😎 Hello, my name is Daniel
-
 ### 🧑‍💻 I'm a software developer with a passion for learning new technologies.
 
 ### 🛠️ I enjoy solving complex challenges using various skills, tools and technologies.
