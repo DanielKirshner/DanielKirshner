@@ -8,5 +8,5 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielKirshner&layout=compact&theme=radical)
 
 ## 📭 Feel Free to Contact Me
-* If you have any idea you would like to make a reality, feel free to reach out to me on one of my socials.
+* If you have any idea you would like to make a reality, feel free to reach out to me on Linkedin.
 * I'm always excited to collaborate on innovative projects and bring new ideas to life!
