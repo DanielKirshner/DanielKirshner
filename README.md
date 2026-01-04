@@ -1,7 +1,7 @@
 # Welcome! 👋
 
 ## 👨‍💻 Who am I?
-* My name is Daniel Kirshner, I'm 25 years old, and I'm from Israel.
+* My name is Daniel Kirshner, I'm 26 years old, and I'm from Israel.
 * I'm a passionate software developer with a strong focus on Python, C, and C++.
 * I have a deep understanding of Linux and networking, and I'm enthusiastic about exploring embedded projects and game development.
 * I also enjoy creating innovative cybersecurity and defensive tools.
