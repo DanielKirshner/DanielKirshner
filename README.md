@@ -1,10 +1,9 @@
 # Welcome! 👋
 
 ## 👨‍💻 Who am I?
-* My name is Daniel Kirshner and I'm from Israel.
-* I'm a passionate software developer with a strong focus on Python, C, and C++.
-* I have a deep understanding of Linux and networking, and I'm enthusiastic about exploring embedded projects and game development.
-* I also enjoy creating innovative cybersecurity and defensive tools.
+* My name is **Daniel Kirshner** and I'm a Software Engineer from Israel.
+* I build tools in **Python**, **C**, and **C++**, from cybersecurity utilities and OS internals to embedded firmware and AI.
+* I have a deep understanding of **Linux**, **Networking**, and **Windows internals**, and I enjoy working close to the metal.
 
 ## 📭 Feel Free to Contact Me
 * If you have any idea you would like to make a reality, feel free to reach out to me on Linkedin.
