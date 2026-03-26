@@ -9,8 +9,4 @@
 * If you have any idea you would like to make a reality, feel free to reach out to me on Linkedin.
 * I'm always excited to collaborate on innovative projects and bring new ideas to life!
 
-## ☕ Buy Me a Coffee
-If you really want to show support, I have a Buy Me Coffee page where you can drop a few shekels (Kidding, they only accept USD 😠)
-
-
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/danielkirshner)
